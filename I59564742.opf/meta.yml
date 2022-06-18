@@ -1,0 +1,36 @@
+id: I59564742
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T03:52:39.976957'
+last_modified: '2022-06-19T03:52:39.976972'
+parser: null
+source_metadata:
+  title: sTag tshang dPal byor bzang pos (15th cent.) Chronicle of China and Tibet
+  author: stag tshang dpal byor bzang po/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); OCR-proofread, unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Rime Centre Moscow, OCR-processed
+  - Editorial process:Mathias Fermer (mf), Kunga Dorje (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Kunga Dorje (kun)
+  text_witnesses: https://sakyaresearch.org/sources/219
+  bases:
+    b43e:
+      title: sTag tshang dPal byor bzang pos (15th cent.) Chronicle of China and Tibet
+      order: 1
+      base_file: b43e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
